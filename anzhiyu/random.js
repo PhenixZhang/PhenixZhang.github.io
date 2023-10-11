@@ -1,1 +1,1 @@
-var posts=["2023/10/09/hello-world/","2023/10/09/我的第一篇博客-Hexo-Hello/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/09/hello-world/","2023/10/10/dddd/","2023/10/10/post/","2023/10/10/你好/","2023/10/09/我的第一篇博客-Hexo-Hello/","2023/10/10/ppp/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
