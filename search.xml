@@ -1,97 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>dddd</title>
-      <link href="/2023/10/10/dddd/"/>
-      <url>/2023/10/10/dddd/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>你好</title>
-      <link href="/2023/10/10/%E4%BD%A0%E5%A5%BD/"/>
-      <url>/2023/10/10/%E4%BD%A0%E5%A5%BD/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ppp</title>
-      <link href="/2023/10/10/ppp/"/>
-      <url>/2023/10/10/ppp/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>post</title>
-      <link href="/2023/10/10/post/"/>
-      <url>/2023/10/10/post/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/img/2b31bf7172ef412998fe9742f1a5dcab.jpeg" alt="图片" title="甘雨"></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 前端,随笔 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇博客 Hexo Hello!</title>
-      <link href="/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-Hexo-Hello/"/>
-      <url>/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-Hexo-Hello/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 前端 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/10/09/hello-world/"/>
-      <url>/2023/10/09/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>dddd</title>
+    <url>/2023/10/10/dddd/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/10/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>post</title>
+    <url>/2023/10/10/post/</url>
+    <content><![CDATA[<p><img src="/img/2b31bf7172ef412998fe9742f1a5dcab.jpeg" alt="图片" title="甘雨"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">吐血整理八张思维导图，涵盖数据分析师学习路线及Python等结构化学习框架，让你以最短时间get数据分析秘籍！</span><br></pre></td></tr></table></figure>
+
+<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>如果您刚刚开始学习数据分析，并且希望对如何规划项目的路线图有一个简要的了解，那么本文就是为你准备的。它有足够的基础知识让你开始。本文的目的只有一个，就是让读者以最快的速度明白如何学习数据分析。</p>
+<p>从事物本质上讲，任何时候你观察和评估世界上的一些东西，你都是在收集和分析数据。你的分析可以帮助你找到更简单的做事方法，识别节省时间的模式，并发现可以完全改变你体验事物的方式的令人惊讶的新观点。</p>
+<p>而从当前市场角度看，这是一个用数据说话的时代，也是一个依靠数据竞争的时代，数据分析师这个岗位正是在当前时代下应运而生的产物，世界500强企业中，有90%以上都建立了数据分析部门。</p>
+<p>最终落实到个人发展及薪资层面，数据分析师则是非常理性且高性价比的职业选项了，看图说话。在后疫情时代的今天，起步薪资水平如此高的职业怕是没有多少，但是相应的高要求也是必须的。数据分析师要求从原本Excel的拖拉拽、SQL的增删改查、Python的import，转换成如今对大数据背景、数据挖掘算法乃至一些工程性质的开发都有要求。不过换个角度思考，越难得事情越值得去做，获得的收益也就越大。</p>
+<p>一、数据分析师学习路线</p>
+<p>接下来用一张图展现数据分析师的学习路线，此路线基本涵盖了一位合格的数据分析师所需掌握的全部技能，从核心要求到分析流程再到业务和分析工具箱在之后都有详尽且完善的思维导图作为补充。</p>
+<p>二、数据分析全流程</p>
+<p>第二张思维导图叙述了从发现问题，到数据的获取与预处理，以及之后的特征工程、数据建模最后到数据分析可视化，都有结构化或者套路化的东西，按照步骤在框架内进行分析就会降低无效分析的概率。</p>
+<p>三、业务统计知识</p>
+<p>第三张思维导图首先对通用指标体系及广告电商特有指标做出展现，必要性在于数据分析师核心要求中，产品sence占比相当大一部分，这就需要分析师对业务逻辑有充分了解，才能基于一定的技术手段做出有效分析，因此左半部分应该是偏基础数据分析师需要掌握的必备技能，在某些时候比所谓的人工智能模型还要靠谱！</p>
+<p>四、Numpy数据分析库</p>
+<p>第四张思维导图则着重展示核心工具箱中Python的Numpy模块，Numpy特别擅长数组和矩阵计算，可以说脱离Numpy库许多Python数据分析库根本无法使用，包括后面的Sklearn机器学习库等都是以Numpy为底层库。</p>
+<p>五、Pandas数据分析库</p>
+<p>第五张思维导图给到Pandas，Pandas数据分析库就是基于Numpy的结构化数据工具集，以DataFrame作为操作对象，相对于Numpy更符合人类结构化思考逻辑，同时与SQL语言在操作逻辑上较为相近，可以联合学习并实践。</p>
+<p>六、Matplotlib可视化库</p>
+<p>第六张思维导图用来展现Python中用于绘图的强大可视化库Matplotlib，此库同时支持2D绘图和3D绘图，对动画也有较好支持效果，同时作为著名可视化工具seaborn的底层库，对想要做好可视化的同学有非常强的学习意义。</p>
+<p>七、Scikit-Learn可视化库</p>
+<p>第七张思维导图则用于重点介绍赫赫有名的Scikit-Learn机器学习库，此库在Python中使用时作为Sklearn导入，本质是一个东西，Sklearn库中几乎将所有机器学习算法以统一风格的代码进行封装，使得数据分析师们在调用时十分顺畅；此外，与深度学习库存在pytorch、TensorFlow等多种框架可选不同的是，sklearn是python中传统机器学习的首选库，不存在其他竞争者。</p>
+<p>八、SQL数据分析</p>
+<p>第八张也是最后一张思维导图献给SQL，也献给各位“表哥表姐”。SQL在数据分析中的地位不言而喻，毫不夸张的说，没有SQL就不会有那么多结构化数据供给数据分析师快速分析数据，连数据都没有谈什么分析呢？另外就是当前大数据背景下Hive、Spark等大数据框架出现，作为使用者来讲依然是在写SQL，本质变化不大，并且在面试中也是高频必考，所以对于SQL的掌握很大程度构成了工作的敲门砖。</p>
+<p>总的来说，以上八张图对于数据分析师来讲都是必备课程，结合第一张数据分析学习路线进行学习，通过逐步学习和实践，可以逐渐掌握数据分析的基本知识和技能，为日后的数据分析工作打下坚实的基础。</p>
+<p>当然学习数据分析的最好方式是通过实战应用来巩固知识。可以通过参加数据分析比赛、实际项目等方式来应用所学知识。</p>
+<p>原创不易，在看收藏都是莫大的分享动力！有任何问题直接留言～</p>
+<p>直接回复【数据分析思维导图】即可获取高清PDF下载链接</p>
+]]></content>
+      <categories>
+        <category>大模型</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ppp</title>
+    <url>/2023/10/10/ppp/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>你好</title>
+    <url>/2023/10/10/%E4%BD%A0%E5%A5%BD/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>我的第一篇博客 Hexo Hello!</title>
+    <url>/2023/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-Hexo-Hello/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
 </search>
